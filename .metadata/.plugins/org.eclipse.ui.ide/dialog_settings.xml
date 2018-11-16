@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\training_d5.01.02\Desktop\SeleniumRohit\src\main\java"/>
+		<item value="C:\Users\training_d5.01.02\Desktop\SeleniumRohit\target"/>
+		<item value="C:\Users\training_d5.01.02\Desktop\SeleniumRohit\test-output"/>
+		<item value="C:\Users\training_d5.01.02\Desktop\SeleniumRohit\target\classes"/>
+		<item value="C:\Users\training_d5.01.02\Desktop\SeleniumRohit\.metadata"/>
+		<item value="C:\Users\training_d5.01.02\Desktop\src"/>
+		<item value="C:\Users\training_d5.01.02\Desktop\SeleniumRohit\target\test-classes\com\ActionDemo"/>
+		<item value="C:\Users\training_d5.01.02\Desktop\SeleniumRohit"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\training_d5.01.02\Desktop\SeleniumRohit"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+			<item value="C:\Users\training_d5.01.02\Desktop\SeleniumRohit\target\test-classes\com\ActionDemo\ActionFirstTest.class"/>
+			<item value="C:\Users\training_d5.01.02\Desktop\SeleniumRohit\src\test\resources\test.properties"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="381" key="DIALOG_X_ORIGIN"/>
+		<item value="185" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
